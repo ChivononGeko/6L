@@ -1,0 +1,7 @@
+C:\Users\Pingo\source\repos\6.13\6.13\bin\Debug\6.13.exe.config
+C:\Users\Pingo\source\repos\6.13\6.13\bin\Debug\6.13.exe
+C:\Users\Pingo\source\repos\6.13\6.13\bin\Debug\6.13.pdb
+C:\Users\Pingo\source\repos\6.13\6.13\obj\Debug\6.13.csprojAssemblyReference.cache
+C:\Users\Pingo\source\repos\6.13\6.13\obj\Debug\6.13.csproj.CoreCompileInputs.cache
+C:\Users\Pingo\source\repos\6.13\6.13\obj\Debug\6.13.exe
+C:\Users\Pingo\source\repos\6.13\6.13\obj\Debug\6.13.pdb
