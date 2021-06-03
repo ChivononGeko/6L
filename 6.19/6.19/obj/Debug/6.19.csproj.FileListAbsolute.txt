@@ -1,0 +1,7 @@
+C:\Users\Pingo\source\repos\6.19\6.19\bin\Debug\6.19.exe.config
+C:\Users\Pingo\source\repos\6.19\6.19\bin\Debug\6.19.exe
+C:\Users\Pingo\source\repos\6.19\6.19\bin\Debug\6.19.pdb
+C:\Users\Pingo\source\repos\6.19\6.19\obj\Debug\6.19.csprojAssemblyReference.cache
+C:\Users\Pingo\source\repos\6.19\6.19\obj\Debug\6.19.csproj.CoreCompileInputs.cache
+C:\Users\Pingo\source\repos\6.19\6.19\obj\Debug\6.19.exe
+C:\Users\Pingo\source\repos\6.19\6.19\obj\Debug\6.19.pdb
