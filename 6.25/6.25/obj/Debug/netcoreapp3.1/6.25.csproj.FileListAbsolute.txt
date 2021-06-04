@@ -1,0 +1,13 @@
+C:\Users\Pingo\source\repos\6.25\6.25\bin\Debug\netcoreapp3.1\6.25.exe
+C:\Users\Pingo\source\repos\6.25\6.25\bin\Debug\netcoreapp3.1\6.25.deps.json
+C:\Users\Pingo\source\repos\6.25\6.25\bin\Debug\netcoreapp3.1\6.25.runtimeconfig.json
+C:\Users\Pingo\source\repos\6.25\6.25\bin\Debug\netcoreapp3.1\6.25.runtimeconfig.dev.json
+C:\Users\Pingo\source\repos\6.25\6.25\bin\Debug\netcoreapp3.1\6.25.dll
+C:\Users\Pingo\source\repos\6.25\6.25\bin\Debug\netcoreapp3.1\6.25.pdb
+C:\Users\Pingo\source\repos\6.25\6.25\obj\Debug\netcoreapp3.1\6.25.csprojAssemblyReference.cache
+C:\Users\Pingo\source\repos\6.25\6.25\obj\Debug\netcoreapp3.1\6.25.AssemblyInfoInputs.cache
+C:\Users\Pingo\source\repos\6.25\6.25\obj\Debug\netcoreapp3.1\6.25.AssemblyInfo.cs
+C:\Users\Pingo\source\repos\6.25\6.25\obj\Debug\netcoreapp3.1\6.25.csproj.CoreCompileInputs.cache
+C:\Users\Pingo\source\repos\6.25\6.25\obj\Debug\netcoreapp3.1\6.25.dll
+C:\Users\Pingo\source\repos\6.25\6.25\obj\Debug\netcoreapp3.1\6.25.pdb
+C:\Users\Pingo\source\repos\6.25\6.25\obj\Debug\netcoreapp3.1\6.25.genruntimeconfig.cache
